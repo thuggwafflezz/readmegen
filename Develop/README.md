@@ -23,6 +23,3 @@ One of the biggest challenges I faced was creating a diverging quetions branch o
 **Note: This project is covered under MIT**
 
 
-## Questions
-  github.com/mrogers23458/  
-  mrogers23458@gmail.com
